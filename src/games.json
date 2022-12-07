@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Dog 1",
+    "description": "Jay Game 1",
+    "tags": "",
+    "route": "achilles",
+    "source": "/swf/dog_1.swf",
+    "gameType": "flash",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Dog 2",
+    "description":  "Jay Game 2",
+    "tags": "",
+    "route": "age-of-war",
+    "source": "/swf/dog_2.swf",
+    "gameType": "flash",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  },
+  {
+    "title": "Final Match",
+    "description":"Final Match",
+    "tags": "",
+    "route": "avalanche",
+    "source": "/swf/finalmatch_4.swf",
+    "gameType": "flash",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
+  }
+]
