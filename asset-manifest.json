@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/github.io/jay_mini_game/static/css/main.afda7262.css",
-    "main.js": "/github.io/jay_mini_game/static/js/main.deee9779.js",
+    "main.js": "/github.io/jay_mini_game/static/js/main.d6a5e698.js",
     "index.html": "/github.io/jay_mini_game/index.html",
     "main.afda7262.css.map": "/github.io/jay_mini_game/static/css/main.afda7262.css.map",
-    "main.deee9779.js.map": "/github.io/jay_mini_game/static/js/main.deee9779.js.map"
+    "main.d6a5e698.js.map": "/github.io/jay_mini_game/static/js/main.d6a5e698.js.map"
   },
   "entrypoints": [
     "static/css/main.afda7262.css",
-    "static/js/main.deee9779.js"
+    "static/js/main.d6a5e698.js"
   ]
 }
