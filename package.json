@@ -1,4 +1,6 @@
 {
+  "homepage": "https://umaiss/github.io/jay_mini_game",
+  "gh-pages": "cross-env NODE_DEBUG=gh-pages gh-pages -d docs",
   "name": "react-ruffle",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +11,7 @@
     "flowbite": "^1.4.7",
     "flowbite-react": "^0.1.0",
     "framer-motion": "^6.3.16",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
@@ -20,6 +23,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
